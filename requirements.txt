@@ -1,0 +1,11 @@
+pandas
+xlrd
+plotly.express
+ogr
+geopandas
+aacgmv2
+datetime
+numpy
+gpxpy
+geopack
+lxml
